@@ -28,6 +28,7 @@ class MyHomePage extends StatefulWidget {
 class _MyHomePageState extends State<MyHomePage> {
   String _text;
   WatsonAssistantV2Credential credential = WatsonAssistantV2Credential(
+    // TODO: change the credentiel to yours
     version: '2019-02-28',
     username: 'apikey',
     apikey: '4yoKo6wzSlWyCYiG2Y6NNmBMv94STXmFV2uNR1lCxxxx',
