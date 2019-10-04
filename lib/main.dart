@@ -30,8 +30,8 @@ class _MyHomePageState extends State<MyHomePage> {
   WatsonAssistantV2Credential credential = WatsonAssistantV2Credential(
     version: '2019-02-28',
     username: 'apikey',
-    apikey: '4yoKo6wzSlWyCYiG2Y6NNmBMv94STXmFV2uNR1lCFX2y',
-    assistantID: '64de9983-ba63-46be-b53a-ee49e74a4d01',
+    apikey: '4yoKo6wzSlWyCYiG2Y6NNmBMv94STXmFV2uNR1lCxxxx',
+    assistantID: '64de9983-ba63-46be-b53a-ee49e74axxxx',
     url: 'https://gateway-lon.watsonplatform.net/assistant/api/v2',
   );
 
